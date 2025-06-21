@@ -8,9 +8,10 @@
 <img align="left" alt="Github-Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=MurilloAntonioBento&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br">
 <img align="left" alt="Github-Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloAntonioBento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs-count=9">
 </div>
+
+<br>
+<br>
  
- &nbsp;
- &nbsp;
  &nbsp;
  &nbsp;
 
