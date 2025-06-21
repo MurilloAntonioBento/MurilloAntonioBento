@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou Murillo Antonio Bento ✋</h1>
 
 
-<p align="center">I ❤️ Apaixonado por transformar ideias em realidade digital. <br><br> Programador apaixonado por resolver problemas por meio de um computador. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência liderando equipes, coordenando projetos, analisando e melhorando sites, integrando tudo isso aos fundamentos do desenvolvimento ágil.</p>&nbsp;
+<p align="center">❤️ Apaixonado por transformar códigos em projetos reais <br><br> Já entendi que esperar para "estar pronto" é perda de tempo. Comecei com HTML e CSS, criei meu próprio portfólio do zero e estou estudando Front-End. <br> Meu foco? Aprender de verdade, criar com propósito e evoluir todos os dias. <br> Não estou aqui pra fazer mais do mesmo. Estou construindo uma vida que me leve ao dev.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MurilloAntonioBento&theme=radical&mode=weekly" />
