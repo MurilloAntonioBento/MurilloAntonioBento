@@ -5,7 +5,7 @@
 <p align="center">❤️ Apaixonado por transformar códigos em projetos reais <br><br> Domino HTML e CSS, criei meu próprio portfólio do zero e estou estudando Front-End, POO (Programação Orientada a Objeto) e Banco de Dados.<br> Não estou aqui pra fazer mais do mesmo. Estou construindo uma vida que me leve a ser referência no desenvolvimento profissional.</p>&nbsp;
 
 <div align="center" style="display: inline">
-  <img alt="Github Stats" width=55% height="200" src="https://github-readme-stats.vercel.app/api?username=MurilloAntonioBento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
+  <img alt="Github Stats" width=50% height="200" src="https://github-readme-stats.vercel.app/api?username=MurilloAntonioBento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
   <img alt="Top Langs" width=45% height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloAntonioBento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs-count=9">
 </div>
 
