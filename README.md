@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou Murillo Antonio Bento ✋</h1>
 
 
-<p align="center">❤️ Apaixonado por transformar códigos em projetos reais <br><br> Já entendi que esperar para "estar pronto" é perda de tempo. Comecei com HTML e CSS, criei meu próprio portfólio do zero e estou estudando Front-End. <br> Meu foco? Aprender de verdade, criar com propósito e evoluir todos os dias. <br> Não estou aqui pra fazer mais do mesmo. Estou construindo uma vida que me leve ao dev.</p>&nbsp;
+<p align="center">❤️ Apaixonado por transformar códigos em projetos reais <br><br> Comecei com HTML e CSS, criei meu próprio portfólio do zero e estou estudando Front-End. <br> Meu foco? Aprender de verdade, criar com propósito e evoluir todos os dias. <br> Não estou aqui pra fazer mais do mesmo. Estou construindo uma vida que me leve ao desenvolvedor profissional.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MurilloAntonioBento&theme=radical&mode=weekly" />
