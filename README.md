@@ -5,8 +5,8 @@
 <p align="center">❤️ Apaixonado por transformar códigos em projetos reais <br><br> Domino HTML e CSS, criei meu próprio portfólio do zero e estou estudando Front-End, POO (Programação Orientada a Objeto) e Banco de Dados.<br> Não estou aqui pra fazer mais do mesmo. Estou construindo uma vida que me leve a ser referência no desenvolvimento profissional.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MurilloAntonioBento&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MurilloAntonioBento&show_icons=true&theme=radical&layout=compact" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MurilloAntonioBento&theme=radical&mode=weekly" />
+<img width=50% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MurilloAntonioBento&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
