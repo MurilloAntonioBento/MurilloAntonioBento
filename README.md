@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou Murillo Antonio Bento ✋</h1>
 
 
-<p align="center"><em>Seu próximo clique já estava programado.</em> <br><br> Domino HTML e CSS, criei meu próprio portfólio do zero e estou evoluindo no Front-End, POO (Programação Orientada a Objeto) e Banco de Dados.<br> Não estou aqui pra fazer só “mais do mesmo”. Estou construindo uma vida que me leve a ser referência no desenvolvimento profissional.</p>&nbsp;
+<p align="center"><em>Seu próximo clique já estava programado.</em> <br><br> Desenvolvo, aprendo e evoluo todos os dias. Sou focado em Front-end e desenvolvimento web, me especializo em HTML e CSS, e estudo tecnologias como JavaScript, TypeScript, React, React Native, Node.js, Next.js, Saas e Nest.js. Cada projeto é um passo à frente.</p>&nbsp;
 
 <div align="center" style="display: inline_block">
   <img alt="Github Stats" width=50% height="200" src="https://github-readme-stats.vercel.app/api?username=MurilloAntonioBento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
@@ -20,7 +20,6 @@
   <img align="center" alt="Murillo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murillo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Murillo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Murillo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 &nbsp;
