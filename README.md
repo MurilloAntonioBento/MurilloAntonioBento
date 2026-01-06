@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou Murillo Antonio Bento ✋</h1>
 
 
-<p align="center">Desenvolvedor focado em construir projetos reais e aprender na prática. Experiência em Frontend com JavaScript. Atualmente migrando para Backend. Valorizo ​​código limpo, consistência e resolução de problemas do mundo real.</p>&nbsp;
+<p align="center">Desenvolvedor focado em construir projetos reais e aprender na prática. Experiência em Frontend com JavaScript e React. Atualmente focado em evoluir como desenvolvedor back-end com Java. Valorizo ​​código limpo, consistência e resolução de problemas do mundo real.</p>&nbsp;
  
  &nbsp;
  &nbsp;
