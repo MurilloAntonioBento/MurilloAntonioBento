@@ -2,14 +2,7 @@
 <h1 align="center">Olá, eu sou Murillo Antonio Bento ✋</h1>
 
 
-<p align="center"><em>Seu próximo clique já estava programado.</em> <br><br> Desenvolvo, aprendo e evoluo todos os dias. Sou focado em Front-end e desenvolvimento web, me especializo em HTML e CSS, e estudo tecnologias como JavaScript, TypeScript, React, React Native, Node.js, Next.js, Saas e Nest.js. Cada projeto é um passo à frente.</p>&nbsp;
-
-<div align="center" style="display: inline_block">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilloAntonioBento)](https://github.com/anuraghazra/github-readme-stats)
-  <img alt="Top Langs" width=45% height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloAntonioBento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs-count=9">
-</div>
-
-
+<p align="center">Desenvolvedor focado em construir projetos reais e aprender na prática. Experiência em Frontend com JavaScript. Atualmente migrando para Backend. Valorizo ​​código limpo, consistência e resolução de problemas do mundo real.</p>&nbsp;
  
  &nbsp;
  &nbsp;
